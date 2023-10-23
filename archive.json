@@ -1,0 +1,111 @@
+{
+  "magic": "E!vIA5L86J2I",
+  "timestamp": "2022-02-10T00:09:15.058138+00:00",
+  "repo": "tplooker/draft-looker-bls-jose-cose",
+  "labels": [
+    {
+      "name": "bug",
+      "description": "Something isn't working",
+      "color": "d73a4a"
+    },
+    {
+      "name": "documentation",
+      "description": "Improvements or additions to documentation",
+      "color": "0075ca"
+    },
+    {
+      "name": "duplicate",
+      "description": "This issue or pull request already exists",
+      "color": "cfd3d7"
+    },
+    {
+      "name": "enhancement",
+      "description": "New feature or request",
+      "color": "a2eeef"
+    },
+    {
+      "name": "help wanted",
+      "description": "Extra attention is needed",
+      "color": "008672"
+    },
+    {
+      "name": "good first issue",
+      "description": "Good for newcomers",
+      "color": "7057ff"
+    },
+    {
+      "name": "invalid",
+      "description": "This doesn't seem right",
+      "color": "e4e669"
+    },
+    {
+      "name": "question",
+      "description": "Further information is requested",
+      "color": "d876e3"
+    },
+    {
+      "name": "wontfix",
+      "description": "This will not be worked on",
+      "color": "ffffff"
+    }
+  ],
+  "issues": [
+    {
+      "number": 1,
+      "id": "I_kwDOGwQuwM5Co3kl",
+      "title": "Private key representation",
+      "url": "https://github.com/tplooker/draft-looker-bls-jose-cose/issues/1",
+      "state": "OPEN",
+      "author": "tplooker",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "Supply definition under the OKP key type for how the private key should be encoded",
+      "createdAt": "2022-01-29T02:59:36Z",
+      "updatedAt": "2022-01-29T02:59:36Z",
+      "closedAt": null,
+      "comments": []
+    },
+    {
+      "number": 2,
+      "id": "I_kwDOGwQuwM5Co3le",
+      "title": "Add example COSE and JOSE key representations",
+      "url": "https://github.com/tplooker/draft-looker-bls-jose-cose/issues/2",
+      "state": "OPEN",
+      "author": "tplooker",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2022-01-29T02:59:55Z",
+      "updatedAt": "2022-01-29T02:59:55Z",
+      "closedAt": null,
+      "comments": []
+    },
+    {
+      "number": 3,
+      "id": "I_kwDOGwQuwM5DJBrB",
+      "title": "Relation to existing draft?",
+      "url": "https://github.com/tplooker/draft-looker-bls-jose-cose/issues/3",
+      "state": "OPEN",
+      "author": "quartzjer",
+      "authorAssociation": "NONE",
+      "assignees": [],
+      "labels": [],
+      "body": "I'm assuming this is a successor to https://datatracker.ietf.org/doc/html/draft-denhartog-pairing-curves-jose-cose-00#section-3.1 but only specifically for the BLS curve?",
+      "createdAt": "2022-02-07T20:04:23Z",
+      "updatedAt": "2022-02-07T22:57:04Z",
+      "closedAt": null,
+      "comments": [
+        {
+          "author": "tplooker",
+          "authorAssociation": "OWNER",
+          "body": "Yes you are correct, thanks for raising, hope to make it more clear with links to drafts etc.",
+          "createdAt": "2022-02-07T22:57:03Z",
+          "updatedAt": "2022-02-07T22:57:03Z"
+        }
+      ]
+    }
+  ],
+  "pulls": []
+}
