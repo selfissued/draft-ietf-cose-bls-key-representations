@@ -969,7 +969,7 @@ Appendix D.  Document History
 
    -05
 
-   *  Replaced instances of "Bls" with "BLS" since B.  L., and S. are
+   *  Replaced instances of "Bls" with "BLS" since B., L., and S. are
       people's initials, just like "RSA" is three people's initials.
 
    -04
